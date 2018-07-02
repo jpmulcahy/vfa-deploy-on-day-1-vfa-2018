@@ -356,8 +356,15 @@ a:visited {
 #firstname-lastname-card {
   background-image: url("link to imgur card photo");
 }
-*/
 
+*/
+#JP-Mulcahy-cover {
+  background-image: url("link to imgur cover photo");
+}
+
+#JP-Mulcahy-card {
+  background-image: url("link to imgur card photo");
+}
 
 /*
  * MEDIA QUERIES
